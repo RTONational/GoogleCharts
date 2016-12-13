@@ -1,3 +1,4 @@
 {
-    "name": "RTONational/GoogleCharts"
+    "name": "RTONational/GoogleCharts",
+    "type": "cakephp-plugin"
 }
